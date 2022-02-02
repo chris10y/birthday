@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-color: #2d78ba;
+    background-image: linear-gradient(90deg, #2d78ba 25%, #d0c897 100%);
+
+}
+
+p{
+    color:white;
+    text-align: center;
+    font-size: 48px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
